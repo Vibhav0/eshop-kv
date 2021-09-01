@@ -1,6 +1,6 @@
 
 # E-Commerce Project
-    
+    https://user-images.githubusercontent.com/73296863/131702359-65fd5331-066b-4304-ab02-aedc9cc64f83.mp4
 ## Run Locally
 
 Clone the project
