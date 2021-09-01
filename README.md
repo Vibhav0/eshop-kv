@@ -1,6 +1,7 @@
 
 # E-Commerce Project
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/73296863/131703294-ced55a38-679b-4cfa-b106-e17cc3501ed9.gif)
+![ezgif com-gif-maker(1)](https://user-images.githubusercontent.com/73296863/131703664-11a805cd-e3cb-488b-99c0-d524b1be61a2.gif)
+
 ## Run Locally
 
 Clone the project
